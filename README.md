@@ -3,7 +3,7 @@ daemon
 
 go daemon func
 
-```
+```go
 import (
     "github.com/9466/daemon"
 )
